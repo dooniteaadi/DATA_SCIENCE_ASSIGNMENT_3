@@ -93,6 +93,8 @@ git clone https://github.com/your-username/global-terrorism-eda.git
 Install dependencies
 pip install -r requirements.txt
 Run the notebook / script
+
+
 📌 Conclusion
 
 This project demonstrates how EDA can transform complex global datasets into meaningful insights, helping understand terrorism patterns and supporting better strategic decisions.
